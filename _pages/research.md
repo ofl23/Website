@@ -6,4 +6,4 @@ author_profile: true
 
 ![](/images/WebsiteHeader.gif)
 
-I research things
+I research many things

@@ -10,7 +10,7 @@ header:
   image: WebsiteHeader.gif
 ---
 
-I am a postgraduate research student within the School of Mathematical Sciences at the University of Southampton. I am also a full member of the Laser Interferometer Space Antenna (LISA) Consortium and a contributor to the [Black Hole Perturbation Toolkit](https://bhptoolkit.org/).
+My name is Oliver Long and I am a postgraduate research student within the School of Mathematical Sciences at the University of Southampton. I am also a full member of the Laser Interferometer Space Antenna (LISA) Consortium and a contributor to the [Black Hole Perturbation Toolkit](https://bhptoolkit.org/).
 
 My research involves the development of theoretical models of gravitational self-force for unbound binary orbits within General Relativity. My PhD thesis is titled "Self-force for hyperbolic black hole encounters" and my supervisors are Prof. Leor Barack (primary) and Dr. Adam Pound (secondary). Funding for my project was provided by EPSRC.
 

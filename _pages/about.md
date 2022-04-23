@@ -1,4 +1,5 @@
 ---
+author: Oliver Long
 permalink: /
 title: "About me"
 excerpt: "About me"
@@ -8,6 +9,8 @@ redirect_from:
   - /about.html
 header:
   image: WebsiteHeader.gif
+taxonomies:
+  tags: ["Oliver Long", "Southampton", "about me"]
 ---
 
 My name is Oliver Long and I am a postgraduate research student within the School of Mathematical Sciences at the University of Southampton. I am also a full member of the Laser Interferometer Space Antenna (LISA) Consortium and a contributor to the [Black Hole Perturbation Toolkit](https://bhptoolkit.org/).

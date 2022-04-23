@@ -201,8 +201,11 @@ defaults:
     values:
       layout: single
       author_profile: true
+      author: Oliver Long
       header:
         image: WebsiteHeader.gif
+      taxonomies:
+        tags: ["Oliver Long"]
   # _pages
   - scope:
       path: ""
@@ -210,8 +213,11 @@ defaults:
     values:
       layout: single
       author_profile: true
+      author: Oliver Long
       header:
         image: WebsiteHeader.gif
+      taxonomies:
+        tags: ["Oliver Long"]
   # _teaching
   - scope:
       path: ""
@@ -219,8 +225,11 @@ defaults:
     values:
       layout: single
       author_profile: true
+      author: Oliver Long
       header:
         image: WebsiteHeader.gif
+      taxonomies:
+        tags: ["Oliver Long", "teaching"]
   # _publications
   - scope:
       path: ""
@@ -228,8 +237,11 @@ defaults:
     values:
       layout: single
       author_profile: true
+      author: Oliver Long
       header:
         image: WebsiteHeader.gif
+      taxonomies:
+        tags: ["Oliver Long", "publications", "papers"]
   # _portfolio
   - scope:
       path: ""
@@ -237,8 +249,11 @@ defaults:
     values:
       layout: single
       author_profile: true
+      author: Oliver Long
       header:
         image: WebsiteHeader.gif
+      taxonomies:
+        tags: ["Oliver Long", "portfolio"]
   # _talks
   - scope:
       path: ""
@@ -246,8 +261,11 @@ defaults:
     values:
       layout: talk
       author_profile: true
+      author: Oliver Long
       header:
         image: WebsiteHeader.gif
+      taxonomies:
+        tags: ["Oliver Long", "presentations", "talks"]
 
 # Sass/SCSS
 sass:

@@ -4,8 +4,6 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
-header:
-  image: WebsiteHeader.gif
 taxonomies:
   tags: ["Oliver Long", "papers", "publications"]
 ---

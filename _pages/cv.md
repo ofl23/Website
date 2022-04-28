@@ -6,8 +6,6 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
-header:
-  image: WebsiteHeader.gif
 taxonomies:
   tags: ["Oliver Long", "research", "resume"]
 ---

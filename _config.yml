@@ -49,9 +49,9 @@ staticman:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
-# Header
-#header:
-#  image: /images/image-alignment-1200x4002.jpg
+#Header
+header:
+  image: WebsiteHeader.gif
 
 # SEO Related
 google_site_verification :
@@ -86,7 +86,7 @@ analytics:
 author:
   name             : "Oliver Long"
   avatar           : "profile.jpeg"
-  bio              : "Postgraduate Research Student"
+  bio              : "Research Fellow"
   location         : "Southampton, UK"
   email            : "o.f.long@soton.ac.uk"
   linkedin         : "oliverflong"

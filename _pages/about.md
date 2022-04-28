@@ -7,17 +7,40 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-header:
-  image: WebsiteHeader.gif
 taxonomies:
   tags: ["Oliver Long", "Southampton", "about me"]
 ---
 
-My name is Oliver Long and I am a postgraduate research student within the School of Mathematical Sciences at the University of Southampton. I am also a full member of the Laser Interferometer Space Antenna (LISA) Consortium and a contributor to the [Black Hole Perturbation Toolkit](https://bhptoolkit.org/).
+My name is Oliver Long and I am a Research Fellow within the School of Mathematical Sciences at the University of Southampton. I am also a full member of the Laser Interferometer Space Antenna (LISA) Consortium and a contributor to the [Black Hole Perturbation Toolkit](https://bhptoolkit.org/).
 
-My research involves the development of theoretical models of gravitational self-force for unbound binary orbits within General Relativity. My PhD thesis is titled "Self-force for hyperbolic black hole encounters" and my supervisors are Prof. Leor Barack (primary) and Dr. Adam Pound (secondary). Funding for my project was provided by EPSRC.
+My research involves the development of theoretical models of gravitational self-force for unbound binary orbits within General Relativity. My PhD thesis was titled "Self-force for hyperbolic black hole encounters" and my supervisors were Prof. Leor Barack (primary) and Dr. Adam Pound (secondary). Funding for my project was provided by EPSRC.
 
-Academic history
+Academic positions
+-----
+
+<div>
+  <img style="float:right" width="85" height="85" src="/images/soton.png"> 
+  <div style="float:left">
+    <b>Research Fellow</b> <br>
+    University of Southampton<br>
+    May 2022 – Present
+  </div>
+</div>
+
+<br> <br> <br>
+
+<div>
+  <img style="float:right" width="85" height="85" src="/images/soton.png"> 
+  <div style="float:left">
+    <b>Research Assistant</b> <br>
+    University of Southampton <br>
+    Jan 2022 – Mar 2022
+  </div>
+</div>
+
+<br> <br> <br>
+
+Education
 -----
 
 <div>
@@ -25,7 +48,7 @@ Academic history
   <div style="float:left">
     <b>PhD in Mathematical Sciences</b> <br>
     University of Southampton<br>
-    Sep 2018 – Present
+    Sep 2018 – Apr 2022
   </div>
 </div>
 

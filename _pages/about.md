@@ -21,7 +21,7 @@ Academic positions
 <div>
   <img style="float:right" width="85" height="85" src="/images/soton.png"> 
   <div style="float:left">
-    <b>Research Fellow</b> <br>
+    <b>EPSRC Doctoral Prize Research Fellow</b> <br>
     University of Southampton<br>
     May 2022 – Present
   </div>
@@ -62,3 +62,15 @@ Education
     Sep 2014 – June 2018
   </div>
 </div>
+
+<br> <br> <br>
+
+Prizes
+-----
+
+<p style="text-align:left;">
+    <b>EPSRC Doctoral Prize</b>, Engineering and Physical Sciences Research Council
+    <span style="float:right;">
+        2022
+    </span>
+</p>

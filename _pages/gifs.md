@@ -22,7 +22,7 @@ Sample scatter orbit
 -----
 
 ![](/images/ScatterPaper.gif)
-<br>A sample scatter geodesics parameterised by $(v_\infty,b)=(0.2,21M)$. The Innermost Stable Circular Orbit (ISCO) is shown for reference.
+A sample scatter geodesics parameterised by $(v_\infty,b)=(0.2,21M)$. The Innermost Stable Circular Orbit (ISCO) is shown for reference.
 
 Scatter orbit definitions
 -----
@@ -44,4 +44,4 @@ Radiation gauge string solutions
 <img src="/images/HalfStringIn.gif" width="180"/>
 <img src="/images/HalfStringOut.gif" width="180"/>
 <img src="/images/NoString.gif" width="180"/>
-Graphical representations of the string solutions of the metric perturbation $h$ in radiation gauges. The red line represents the string-like singularity and background colours represent different radiation gauges. <em>Left</em>: Full-string solution. <em>Centre</em>: Half-string solutions. <em>Right</em>: No-string solution.
+<br>Graphical representations of the string solutions of the metric perturbation $h$ in radiation gauges. The red line represents the string-like singularity and background colours represent different radiation gauges. <em>Left</em>: Full-string solution. <em>Centre</em>: Half-string solutions. <em>Right</em>: No-string solution.

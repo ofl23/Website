@@ -2,12 +2,13 @@
 author: Oliver Long
 permalink: /
 title: "About me"
+description: "My name is Oliver Long and I am an EPSRC Doctoral Prize Research Fellow within the School of Mathematical Sciences at the University of Southampton."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 taxonomies:
-  tags: ["Oliver Long", "Southampton", "about me"]
+  tags: ["Oliver Long", "Southampton", "Oliver", "Long"]
 ---
 
 My name is Oliver Long and I am an EPSRC Doctoral Prize Research Fellow within the School of Mathematical Sciences at the University of Southampton. I am also a full member of the Laser Interferometer Space Antenna (LISA) Consortium and a contributor to the [Black Hole Perturbation Toolkit](https://bhptoolkit.org/).

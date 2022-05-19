@@ -69,7 +69,7 @@ Prizes
 -----
 
 <p style="text-align:left;">
-    <b>EPSRC Doctoral Prize</b>, Engineering and Physical Sciences Research Council
+    <b>Doctoral Prize</b>, Engineering and Physical Sciences Research Council
     <span style="float:right;">
         2022
     </span>

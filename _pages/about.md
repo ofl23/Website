@@ -21,9 +21,9 @@ Academic positions
 <div>
   <img style="float:right" width="85" height="85" src="/images/soton.png"> 
   <div style="float:left">
-    <b>Doctoral Prize Research Fellow</b> <br>
+    <b>Senior Research Assistant</b> <br>
     University of Southampton<br>
-    May 2022 – Present
+    June 2022 – Present
   </div>
 </div>
 

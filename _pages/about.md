@@ -11,7 +11,7 @@ taxonomies:
   tags: ["Oliver Long", "Southampton", "Oliver", "Long"]
 ---
 
-My name is Oliver Long and I am a Doctoral Prize Research Fellow within the School of Mathematical Sciences at the University of Southampton. I am also a full member of the Laser Interferometer Space Antenna (LISA) Consortium and a contributor to the [Black Hole Perturbation Toolkit](https://bhptoolkit.org/).
+My name is Oliver Long and I am a Doctoral Prize Senior Research Assistant within the School of Mathematical Sciences at the University of Southampton. I am also a full member of the Laser Interferometer Space Antenna (LISA) Consortium and a contributor to the [Black Hole Perturbation Toolkit](https://bhptoolkit.org/).
 
 My research involves the development of theoretical models of gravitational self-force for unbound binary orbits within General Relativity. My PhD thesis was titled "Self-force for hyperbolic black hole encounters" and my supervisors were Prof. Leor Barack (primary) and Dr. Adam Pound (secondary). Funding for my project was provided by EPSRC.
 

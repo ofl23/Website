@@ -12,10 +12,16 @@ Here are a selection of gifs that I have produced for talks I have given about m
 
 Feel free to use them for your own purposes but please give credit where it is due.
 
-Geodesic scatter orbits
+Geodesic strong-field scatter orbits
 -----
 
 ![](/images/ScatterOrbits.gif)
+A selection of scatter geodesics paramterised by the velocity at infinity $v_\infty$ and the impact parameter $b$. The Innermost Stable Circular Orbit (ISCO) is shown for reference.
+
+Geodesic weak-field scatter orbits
+-----
+
+![](/images/ScatterOrbitsb.gif)
 A selection of scatter geodesics paramterised by the velocity at infinity $v_\infty$ and the impact parameter $b$. The Innermost Stable Circular Orbit (ISCO) is shown for reference.
 
 Sample scatter orbit
@@ -29,6 +35,12 @@ Scatter orbit definitions
 
 ![](/images/ImpactParamScattAngleDef.gif)
 A graphical representation of the definitions of the impact parameter $b$ and the scatter angle $\delta\varphi$
+
+Weak-field scatter orbit
+-----
+
+![](/images/PMScatter.gif)
+A sample scatter geodesic parameterised by $(v_\infty,b)=(0.5,100M)$.
 
 Weak-field bound orbit
 -----

@@ -18,12 +18,38 @@ My research involves the development of theoretical models of gravitational self
 Academic positions
 -----
 
+<!---
+<div>
+  <img style="float:right" width="85" height="85" src="/images/AEI.png"> 
+  <div style="float:left">
+    <b>Research Fellow</b> <br>
+    Max Plank Institute for Gravitational Physics (Albert Einstein Institute)<br>
+    Nov 2022 – Present
+  </div>
+</div>
+
+<br> <br> <br>
+-->
+
+<!---
+<div>
+  <img style="float:right" width="85" height="85" src="/images/soton.png"> 
+  <div style="float:left">
+    <b>Doctoral Prize Research Fellow</b> <br>
+    University of Southampton<br>
+    Jul 2022 – Present
+  </div>
+</div>
+
+<br> <br> <br>
+-->
+
 <div>
   <img style="float:right" width="85" height="85" src="/images/soton.png"> 
   <div style="float:left">
     <b>Doctoral Prize Senior Research Assistant</b> <br>
     University of Southampton<br>
-    June 2022 – Present
+    Jun 2022 – Present
   </div>
 </div>
 
@@ -69,8 +95,17 @@ Prizes
 -----
 
 <p style="text-align:left;">
-    <b>Doctoral Prize</b>, Engineering and Physical Sciences Research Council
+    <b>Doctoral Prize</b>
     <span style="float:right;">
         2022
-    </span>
+    </span><br>
+    Engineering and Physical Sciences Research Council
+</p>
+
+<p style="text-align:left;">
+    <b>Best Student Talk Prize Runner Up</b>
+    <span style="float:right;">
+        Jun 2022
+    </span> <br>
+     25th Capra Meeting on Radiation Reaction in General Relativity
 </p>

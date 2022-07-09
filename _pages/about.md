@@ -85,7 +85,7 @@ Education
   <div style="float:left">
     <b>MPhys in Physics</b> <br>
     The University of Manchester <br>
-    Sep 2014 – June 2018
+    Sep 2014 – Jun 2018
   </div>
 </div>
 

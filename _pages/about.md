@@ -47,7 +47,7 @@ Academic positions
   <div style="float:left">
     <b>Doctoral Prize Senior Research Assistant</b> <br>
     University of Southampton<br>
-    Jun 2022 – Aug 2022
+    Jun 2022 – Jul 2022
   </div>
 </div>
 
@@ -72,7 +72,7 @@ Education
   <div style="float:left">
     <b>PhD in Mathematical Sciences</b> <br>
     University of Southampton<br>
-    Sep 2018 – Apr 2022
+    Sep 2018 – Jun 2022
   </div>
 </div>
 

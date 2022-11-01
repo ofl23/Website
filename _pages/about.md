@@ -18,7 +18,6 @@ My research involves the development of theoretical models of gravitational self
 Academic positions
 -----
 
-<!---
 <div>
   <img style="float:right" width="85" height="85" src="/images/AEI.png"> 
   <div style="float:left">
@@ -29,14 +28,13 @@ Academic positions
 </div>
 
 <br> <br> <br>
--->
 
 <div>
   <img style="float:right" width="85" height="85" src="/images/soton.png"> 
   <div style="float:left">
     <b>Doctoral Prize Research Fellow</b> <br>
     University of Southampton<br>
-    Aug 2022 – Present
+    Aug 2022 – Oct 2022
   </div>
 </div>
 

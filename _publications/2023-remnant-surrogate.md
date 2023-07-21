@@ -1,5 +1,5 @@
 ---
-title: "Hyperboloidal discontinuous time-symmetric numerical algorithm with higher order jumps for gravitational self-force computations in the time domain"
+title: "Extending black-hole remnant surrogate models to extreme mass ratios"
 collection: publications
 permalink: /publication/2023-remnant-surrogate
 excerpt: '[arXiv:2307.03435](https://arxiv.org/abs/2307.03435)'

@@ -11,7 +11,7 @@ taxonomies:
   tags: ["Oliver Long", "Southampton", "Oliver", "Long", "AEI"]
 ---
 
-My name is Oliver Long and I am a Postdoctoral Researcher at the Max Planck Institute for Gravitational Physics (Albert Einstein Institute) in Potsdam, Germany. I am a member of the Laser Interferometer Space Antenna (LISA) Consortium, the LIGO Scientific Collaboration (LSC), and the Simulating eXtreme Spacetimes (SXS) collaboration. I am a contributor to the Spectral Einstein Code (SpEC), [pySEOBNR]{https://git.ligo.org/waveforms/software/pyseobnr}, and the [KerrGeodesics]{https://bhptoolkit.org/KerrGeodesics/} package of the Black Hole Perturbation Toolkit.
+My name is Oliver Long and I am a Postdoctoral Researcher at the Max Planck Institute for Gravitational Physics (Albert Einstein Institute) in Potsdam, Germany. I am a member of the Laser Interferometer Space Antenna (LISA) Consortium, the LIGO Scientific Collaboration (LSC), and the Simulating eXtreme Spacetimes (SXS) collaboration. I am a contributor to the Spectral Einstein Code (SpEC), [pySEOBNR](https://git.ligo.org/waveforms/software/pyseobnr), and the [KerrGeodesics](https://bhptoolkit.org/KerrGeodesics/) package of the Black Hole Perturbation Toolkit.
 
 My research involves the development of theoretical models of hyperbolic binary orbits within General Relativity using self-force (SF), Numerical Relativity (NR) and effective-one-body (EOB) techniques. My PhD thesis was titled "Self-force for hyperbolic black hole encounters" and my supervisors were Prof. Leor Barack (primary) and Dr. Adam Pound (secondary). Funding for my project was provided by EPSRC.
 

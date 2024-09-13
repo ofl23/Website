@@ -11,9 +11,13 @@ taxonomies:
   tags: ["Oliver Long", "Southampton", "Oliver", "Long", "AEI"]
 ---
 
-My name is Oliver Long and I am a Postdoctoral Researcher at the Max Planck Institute for Gravitational Physics (Albert Einstein Institute) in Potsdam, Germany. I am a member of the Simulating eXtreme Spacetimes (SXS) collaboration, the Laser Interferometer Space Antenna (LISA) Consortium, and a former member of the LIGO Scientific Collaboration (LSC). I am a contributor to the Spectral Einstein Code (SpEC), and the [KerrGeodesics](https://bhptoolkit.org/KerrGeodesics/) package of the Black Hole Perturbation Toolkit.
+My name is Oliver Long and I am a Postdoctoral Researcher at the Max Planck Institute for Gravitational Physics (Albert Einstein Institute) in Potsdam, Germany.
 
-My research involves the development of theoretical models of hyperbolic binary orbits within General Relativity using self-force (SF), Numerical Relativity (NR) and effective-one-body (EOB) techniques. My PhD thesis was titled "Self-force for hyperbolic black hole encounters" and my supervisors were Prof. Leor Barack (primary) and Dr. Adam Pound (secondary). Funding for my project was provided by EPSRC.
+My research focuses on the numerical modelling of unbound binary black hole encounters. These high-energy systems allow us to probe the ultra-strong gravitational potential and increase our understanding of General Relativity. To explore these systems, I employ a range of methods, including Numerical Relativity for the comparable mass case and self-force techniques from black hole perturbation theory for extreme-mass ratio scenarios.
+
+I am a member of the [SXS collaboration](https://www.black-holes.org/), the [LISA Consortium](https://www.lisamission.org/), and a former member of the [LIGO Scientific Collaboration](https://www.ligo.org/) (LSC). Additionally, I am a contributor to the [Spectral Einstein Code](https://www.black-holes.org/code/SpEC.html) (SpEC), and the [KerrGeodesics](https://bhptoolkit.org/KerrGeodesics/) package of the [Black Hole Perturbation Toolkit](https://bhptoolkit.org/).
+
+I completed my PhD in Mathematical Sciences at the University of Southampton in 2022 under the supervision of Prof. Leor Barack. My thesis, titled “<i>Self-force for hyperbolic black hole encounters</i>,” was funded by the Engineering and Physical Sciences Research Council (EPSRC). Prior to that, I earned my MPhys in Physics from The University of Manchester in 2018.
 
 Academic positions
 -----
@@ -32,31 +36,9 @@ Academic positions
 <div>
   <img style="float:right" width="85" height="85" src="/images/soton.png"> 
   <div style="float:left">
-    <b>Doctoral Prize Research Fellow</b> <br>
+    <b>Postdoctoral Research Fellow</b> <br>
     University of Southampton<br>
     Aug 2022 – Oct 2022
-  </div>
-</div>
-
-<br> <br> <br>
-
-<div>
-  <img style="float:right" width="85" height="85" src="/images/soton.png"> 
-  <div style="float:left">
-    <b>Doctoral Prize Senior Research Assistant</b> <br>
-    University of Southampton<br>
-    Jun 2022 – Jul 2022
-  </div>
-</div>
-
-<br> <br> <br>
-
-<div>
-  <img style="float:right" width="85" height="85" src="/images/soton.png"> 
-  <div style="float:left">
-    <b>Research Assistant</b> <br>
-    University of Southampton <br>
-    Jan 2022 – Mar 2022
   </div>
 </div>
 

@@ -7,6 +7,4 @@ taxonomies:
   tags: ["Oliver Long", "research"]
 ---
 
-![](/images/WebsiteHeader.gif)
-
 I research many things

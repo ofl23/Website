@@ -1,5 +1,5 @@
 ---
-title: Hyperbolic Binary Black Hole encounters with SpEC"
+title: "Hyperbolic Binary Black Hole encounters with SpEC"
 collection: talks
 type: "Talk"
 permalink: /talks/sxscon

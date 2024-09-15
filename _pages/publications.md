@@ -1,19 +1,20 @@
 ---
-author: Oliver Long
-layout: archive
-title: "Publications"
+layout: page
 permalink: /publications/
-author_profile: true
-taxonomies:
-  tags: ["Oliver Long", "papers", "publications"]
+title: publications
+description: Below is a list of my publications in reverse-chronological order.
+nav: true
+nav_order: 2
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+<!-- _pages/publications.md -->
 
-{% include base_path %}
+<!-- Bibsearch Feature -->
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+{% include bib_search.liquid %}
+
+<div class="publications">
+
+{% bibliography --query @article @phdthesis %}
+
+</div>

@@ -1,0 +1,26 @@
+"AJP":
+  url: https://aapt.scitation.org/journal/ajp
+  color: "#00369f"
+
+"PRD":
+  url: https://journals.aps.org/prd/
+  color: "#537D8F"
+
+"arXiv":
+  url: https://arxiv.org/
+  color: "#A42C25"
+
+"Thesis":
+  color: "#009f36"
+
+"Invited Talk":
+  color: "#009f36"
+
+"Contributed Talk":
+  color: "#A42C25"
+
+"Seminar":
+  color: "#00369f"
+
+"Poster":
+  color: "#537D8F"

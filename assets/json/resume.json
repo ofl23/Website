@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Oliver Long",
-    "label": "Postdoctoral Researcher",
+    "position": "Postdoctoral Researcher",
     "image": "assets/img/profile.WEBP",
     "email": "oliver.long@aei.mpg.de",
     "phone": "",
@@ -22,7 +22,7 @@
       }
     ]
   },
-  "work": [
+  "positions": [
     {
       "name": "Max Planck Institute for Gravitational Physics (Albert Einstein Institute)",
       "location": "Potsdam, Germany",
@@ -42,6 +42,18 @@
       "summary": ""
     }
   ],
+  "teaching": [
+    {
+      "name": "University of Southampton",
+      "location": "Southampton, UK",
+      "position": "Postgraduate Student Demonstrator",
+      "url": "",
+      "startDate": "2018-09",
+      "endDate": "2022-01",
+      "summary": "",
+      "highlights": ["Numerical Methods in Python: Run workshops based on problem sheets and coursework", "Maths for Physicists: Run classes demonstrating mathematical techniques and coursework marking", "Maths for Engineers: Run drop-in workshops, marking of exams, and exam writing"]
+    }
+  ],
   "education": [
     {
       "institution": "University of Southampton",
@@ -51,7 +63,7 @@
       "startDate": "2018-09-27",
       "endDate": "2022-06-28",
       "score": "10",
-      "courses": ["Thesis title: Self-force in hyperbolic black hole encounters.", "Advisor: Prof. Leor Barack"]
+      "courses": ["Thesis title: Self-force in hyperbolic black hole encounters", "Advisor: Prof. Leor Barack"]
     },
     {
       "institution": "The University of Manchester",
@@ -61,7 +73,7 @@
       "startDate": "2014-09-27",
       "endDate": "2018-06-28",
       "score": "10",
-      "courses": ["Project title: Constraints on the neutrino sector using current and future cosmological data.", "Advisor: Dr Eleonora Di Valentino"]
+      "courses": ["Project title: Constraints on the neutrino sector using current and future cosmological data", "Advisor: Dr Eleonora Di Valentino"]
     }
   ],
   "_volunteer": [
@@ -82,8 +94,7 @@
       "date": "2022",
       "awarder": "Engineering and Physical Sciences Research Council",
       "url": "",
-      "summary": "Funding for the Postdoctoral Research Fellow position at the University of Southampton.",
-      "highlights": ["Funding for the Postdoctoral Research Fellow position at the University of Southampton.", "Grant number: EP/T517859/1"]
+      "summary": "Funding for the Postdoctoral Research Fellow position at the University of Southampton"
     },
     {
       "title": "Best Student Talk Prize Runner Up",
@@ -216,7 +227,7 @@
     {
       "name": "Simulating Extreme Spacetimes (SXS) Collaboration",
       "summary": "The SXS project is a collaborative research effort involving multiple institutions. Our goal is the simulation of black holes and other extreme spacetimes to gain a better understanding of Relativity, and the physics of exotic objects in the distant cosmos.",
-      "highlights": ["Contributor to the Spectral Einstein Code (SpEC)", "Member of the SXS Social Media Team"],
+      "highlights": ["Contributor to the <a href='https://www.black-holes.org/code/SpEC.html' target='_blank' rel='noopener noreferrer'>Spectral Einstein Code</a> (SpEC)", "Member of the SXS Social Media Team"],
       "startDate": "2022-11",
       "endDate": "",
       "url": "https://www.black-holes.org/"
@@ -224,7 +235,7 @@
     {
       "name": "Black Hole Perturbation Toolkit",
       "summary": "The Black Hole Perturbation Toolkit brings together software and data relating to black hole perturbation theory. These can then be used to model gravitational radiation from small mass-ratio binaries as well as from the ringdown of black holes.",
-      "highlights": ["Contributor to the KerrGeodesics package"],
+      "highlights": ["Contributor to the <a href='https://bhptoolkit.org/KerrGeodesics/' target='_blank' rel='noopener noreferrer'>KerrGeodesics</a> package"],
       "startDate": "2019-03",
       "endDate": "",
       "url": "https://bhptoolkit.org/"

@@ -13,18 +13,11 @@
       "city": "Berlin",
       "countryCode": "DE",
       "region": ""
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    }
   },
   "positions": [
     {
-      "name": "Max Planck Institute for Gravitational Physics (Albert Einstein Institute)",
+      "name": "<a href='https://www.aei.mpg.de' target='_blank' rel='noopener noreferrer'>Max Planck Institute for Gravitational Physics (Albert Einstein Institute)</a>",
       "location": "Potsdam, Germany",
       "position": "Postdoctoral Researcher",
       "url": "https://www.aei.mpg.de/person/125634/2784",
@@ -33,7 +26,7 @@
       "summary": ""
     },
     {
-      "name": "University of Southampton",
+      "name": "<a href='https://www.southampton.ac.uk/' target='_blank' rel='noopener noreferrer'>University of Southampton</a>",
       "location": "Southampton, UK",
       "position": "Postdoctoral Research Fellow",
       "url": "",
@@ -44,36 +37,34 @@
   ],
   "teaching": [
     {
-      "name": "University of Southampton",
+      "name": "<a href='https://www.southampton.ac.uk/' target='_blank' rel='noopener noreferrer'>University of Southampton</a>",
       "location": "Southampton, UK",
       "position": "Postgraduate Student Demonstrator",
       "url": "",
       "startDate": "2018-09",
       "endDate": "2022-01",
       "summary": "",
-      "highlights": ["Numerical Methods in Python: Run workshops based on problem sheets and coursework", "Maths for Physicists: Run classes demonstrating mathematical techniques and coursework marking", "Maths for Engineers: Run drop-in workshops, marking of exams, and exam writing"]
+      "highlights": ["Numerical Methods in Python: Run workshops based on problem sheets and coursework", "Maths for Physicists: Run classes demonstrating mathematical techniques, coursework marking", "Maths for Engineers: Run drop-in workshops, exam writing and marking"]
     }
   ],
   "education": [
     {
-      "institution": "University of Southampton",
+      "institution": "<a href='https://www.southampton.ac.uk/' target='_blank' rel='noopener noreferrer'>University of Southampton</a>",
       "location": "Southampton, UK",
-      "url": "https://www.southampton.ac.uk/",
       "studyType": "PhD in Mathematical Sciences",
       "startDate": "2018-09-27",
       "endDate": "2022-06-28",
       "score": "10",
-      "courses": ["Thesis title: Self-force in hyperbolic black hole encounters", "Advisor: Prof. Leor Barack"]
+      "courses": ["Thesis title: <i> <a href='(https://eprints.soton.ac.uk/457451/' target='_blank' rel='noopener noreferrer'>Self-force for hyperbolic black hole encounters</a> </i>", "Advisor: Prof. Leor Barack"]
     },
     {
-      "institution": "The University of Manchester",
+      "institution": "<a href='https://www.manchester.ac.uk/'' target='_blank' rel='noopener noreferrer'>The University of Manchester</a>",
       "location": "Manchester, UK",
-      "url": "https://www.manchester.ac.uk/",
       "studyType": "MPhys in Physics",
       "startDate": "2014-09-27",
       "endDate": "2018-06-28",
       "score": "10",
-      "courses": ["Project title: Constraints on the neutrino sector using current and future cosmological data", "Advisor: Dr Eleonora Di Valentino"]
+      "courses": ["First Class Honours","Project title: <i>Constraints on the neutrino sector using current and future cosmological data</i>", "Advisor: Dr Eleonora Di Valentino"]
     }
   ],
   "_volunteer": [
@@ -92,14 +83,14 @@
     {
       "title": "Doctoral Prize Fellowship",
       "date": "2022",
-      "awarder": "Engineering and Physical Sciences Research Council",
+      "awarder": "<a href='https://www.ukri.org/councils/epsrc/' target='_blank' rel='noopener noreferrer'>Engineering and Physical Sciences Research Council</a>",
       "url": "",
       "summary": "Funding for the Postdoctoral Research Fellow position at the University of Southampton"
     },
     {
       "title": "Best Student Talk Prize Runner Up",
       "date": "2022",
-      "awarder": "25th Capra Meeting on Radiation Reaction in General Relativity",
+      "awarder": "<a href='https://www.caprameeting.org/capra-meetings/capra-25' target='_blank' rel='noopener noreferrer'>25th Capra Meeting on Radiation Reaction in General Relativity</a>",
       "url": "",
       "summary": ""
     }
@@ -154,7 +145,7 @@
       "level": "Advanced",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "C++",
+        "C/C++",
         "Python",
         "Mathematica",
         "Git",

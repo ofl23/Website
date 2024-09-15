@@ -87,7 +87,7 @@
     },
     {
       "title": "Best Student Talk Prize Runner Up",
-      "date": "2022-06",
+      "date": "2022",
       "awarder": "25th Capra Meeting on Radiation Reaction in General Relativity",
       "url": "",
       "summary": ""
@@ -137,9 +137,9 @@
       "icon": "fa-solid fa-clipboard-check"
     }
   ],
-  "skills": [
+  "coding": [
     {
-      "name": "Coding - Advanced",
+      "name": "Advanced",
       "level": "Advanced",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
@@ -152,7 +152,7 @@
       ]
     },
     {
-      "name": "Coding - Intermediate",
+      "name": "Intermediate",
       "level": "Intermediate",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
@@ -164,7 +164,7 @@
       ]
     },
     {
-      "name": "Coding - Basic",
+      "name": "Basic",
       "level": "Basic",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
@@ -212,14 +212,46 @@
       "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     }
   ],
-  "_projects": [
+  "collaborations": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Simulating Extreme Spacetimes (SXS) Collaboration",
+      "summary": "The SXS project is a collaborative research effort involving multiple institutions. Our goal is the simulation of black holes and other extreme spacetimes to gain a better understanding of Relativity, and the physics of exotic objects in the distant cosmos.",
+      "highlights": ["Contributor to the Spectral Einstein Code (SpEC)", "Member of the SXS Social Media Team"],
+      "startDate": "2022-11",
+      "endDate": "",
+      "url": "https://www.black-holes.org/"
+    },
+    {
+      "name": "Black Hole Perturbation Toolkit",
+      "summary": "The Black Hole Perturbation Toolkit brings together software and data relating to black hole perturbation theory. These can then be used to model gravitational radiation from small mass-ratio binaries as well as from the ringdown of black holes.",
+      "highlights": ["Contributor to the KerrGeodesics package"],
+      "startDate": "2019-03",
+      "endDate": "",
+      "url": "https://bhptoolkit.org/"
+    },
+    {
+      "name": "Laser Interferometer Space Antenna (LISA) Consortium",
+      "summary": "The LISA Consortium is a large international collaboration that combines the resources and expertise from scientists in many countries all over the world. Together with ESA, its member states, and NASA, the LISA Consortium is working to bring the LISA Mission to fruition.",
+      "highlights": ["Member of the Waveform Working Group", "Member of the LISA Early Career Scientists (LECS)"],
+      "startDate": "2018-10",
+      "endDate": "",
+      "url": "https://www.lisamission.org/"
+    },
+    {
+      "name": "Capra Community",
+      "summary": "The Capra meeting is an annual workshop on the topic of radiation reaction in general relativity. The primary focus of these workshops is the development of the gravitational self-force approach to model extreme mass ratio inspirals and further our understanding of the two-body problem in general relativity.",
+      "highlights": ["Member of the Equity, Diversity, and Inclusion (EDI) Team"],
+      "startDate": "2018-10",
+      "endDate": "",
+      "url": "https://www.caprameeting.org/home"
+    },
+    {
+      "name": "LIGO Scientific Collaboration (LSC)",
+      "summary": "The LSC is a group of scientists focused on the direct detection of gravitational waves, using them to explore the fundamental physics of gravity, and developing the emerging field of gravitational wave science as a tool of astronomical discovery.",
+      "highlights": ["Member of the Waveform Working Group"],
+      "startDate": "2023-04",
+      "endDate": "2023-11",
+      "url": "https://www.ligo.org/"
     }
   ]
 }

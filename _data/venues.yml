@@ -16,6 +16,7 @@
 
 "Invited Talk":
   color: "#009f36"
+  style: "color: white"
 
 "Contributed Talk":
   color: "#A42C25"

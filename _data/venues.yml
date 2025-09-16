@@ -6,6 +6,10 @@
   url: https://journals.aps.org/prd/
   color: "#537D8F"
 
+"CQG":
+  url: https://iopscience.iop.org/journal/0264-9381
+  color: "#88CABB" 
+
 "arXiv":
   url: https://arxiv.org/
   color: "#A42C25"

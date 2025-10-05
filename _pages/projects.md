@@ -1,13 +1,13 @@
-<!-- ---
+---
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Below is a collection of some of my past and ongoing projects
 nav: true
 nav_order: 3
-display_categories: [research, codes, work, fun]
+# display_categories: [research]
 horizontal: false
---- -->
+---
 
 <!-- pages/projects.md -->
 <div class="projects">

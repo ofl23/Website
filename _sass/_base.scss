@@ -215,6 +215,30 @@ ul.task-list input[type="checkbox"] {
   margin-right: 1rem;
 }
 
+.project-image-right {
+  float: right;
+  width: 45%;
+  margin: 0 0 1rem 1.5rem;
+}
+
+.project-image-right picture,
+.project-image-right img {
+  width: 100%;
+}
+
+.project-image-right figcaption {
+  margin-top: 0.5rem;
+  font-size: 0.9em;
+}
+
+@media (max-width: 768px) {
+  .project-image-right {
+    float: none;
+    width: 100%;
+    margin: 1rem 0;
+  }
+}
+
 @media (min-width: 576px) {
   .profile {
     width: 30%;

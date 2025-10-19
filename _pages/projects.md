@@ -5,7 +5,7 @@ permalink: /projects/
 description: Below is a collection of some of my past and ongoing projects
 nav: true
 nav_order: 3
-# display_categories: [research]
+display_categories: [introductions, research]
 horizontal: false
 ---
 

@@ -10,7 +10,7 @@ related_publications: false
 
 {% include figure.liquid
    figure_class="project-image-right"
-   path="assets/img/NRDomain.png"
+   path="assets/img/NRdomain.png"
    caption="Figure 1: A slice of a  <a href='https://www.black-holes.org/for-researchers/spec'>SpEC</a> computational domain showing the spectral subdomains and the excised black hole horizons. Credit: H. Pfeiffer (MPI for Grav. Physics)"
 %}
 

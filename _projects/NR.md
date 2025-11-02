@@ -11,7 +11,7 @@ related_publications: false
 {% include figure.liquid
    figure_class="project-image-right"
    path="assets/img/NRdomain.png"
-   caption="Figure 1: A slice of a  <a href='https://www.black-holes.org/for-researchers/spec'>SpEC</a> computational domain showing the spectral subdomains and the excised black hole horizons. Credit: H. Pfeiffer (MPI for Grav. Physics)"
+   caption="Figure 1: A slice of a  <a href='https://www.black-holes.org/for-researchers/spec'>SpEC</a> computational domain showing the spectral subdomains and the excised black hole horizons."
 %}
 
 Numerical Relativity (NR) solves the full Einstein field equations directly on a computer by discretising spacetime into three-dimensional spatial slices that evolve over time. These simulations provide a detailed, fully general-relativistic description of phenomena and capture all of the physics of the system such as tidal deformations and horizon interactions, as shown in Figure 1. Since the first successful binary black-hole merger simulation in 2005, NR has remained the only means of accurately modelling the merger from first principles.

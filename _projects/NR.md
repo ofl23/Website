@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Introduction to Numerical Relativity
+title: Introduction to numerical relativity
 # description: with background image
 img: assets/img/NRDomainSqr.png
 importance: 1
@@ -14,9 +14,9 @@ related_publications: false
    caption="Figure 1: A slice of a  <a href='https://www.black-holes.org/for-researchers/spec'>SpEC</a> computational domain showing the spectral subdomains and the excised black hole horizons."
 %}
 
-Numerical Relativity (NR) solves the full Einstein field equations directly on a computer by discretising spacetime into three-dimensional spatial slices that evolve over time. These simulations provide a detailed, fully general-relativistic description of phenomena and capture all of the physics of the system such as tidal deformations and horizon interactions, as shown in Figure 1. Since the first successful binary black-hole merger simulation in 2005, NR has remained the only means of accurately modelling the merger from first principles.
+Numerical relativity (NR) solves the full Einstein field equations directly on a computer by discretising spacetime into three-dimensional spatial slices that evolve over time. These simulations provide a detailed, fully general-relativistic description of phenomena and capture all of the physics of the system such as tidal deformations and horizon interactions, as shown in Figure 1. Since the first successful binary black-hole merger simulation in 2005, NR has remained the only means of accurately modelling the merger from first principles.
 
-Building on this foundation, the <a href='https://www.black-holes.org/'>Simulating eXtreme Spacetimes (SXS) Collaboration</a> has generated some of the world’s most accurate waveform catalogues. Using the <a href='https://www.black-holes.org/for-researchers/spec'>Spectral Einstein Code (SpEC)</a>, SXS simulations push the limits of computational calculations including high spins, precession, and eccentricity, as shown in Figure 2. NR results now inform every stage of gravitational wave modelling such as calibrating effective-one-body models, validating self-force and post-Minkowskian predictions, and training fast surrogates for data analysis.
+Building on this foundation, the <a href='https://www.black-holes.org/'>Simulating eXtreme Spacetimes (SXS) Collaboration</a> has generated some of the world’s most accurate waveform catalogues. Using the <a href='https://www.black-holes.org/for-researchers/spec'>Spectral Einstein Code (SpEC)</a>, SXS simulations push the limits of computational calculations including high spins, precession, and eccentricity, as shown in Figure 2. NR results now inform every stage of gravitational wave modelling such as calibrating effective-one-body models, validating [self-force]({{ '/projects/SelfForce/' | relative_url }}) and post-Minkowskian predictions, and training fast surrogates for data analysis.
 
 {% include figure.liquid
    path="assets/img/SXSCatalog.png"

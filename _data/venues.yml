@@ -10,6 +10,10 @@
   url: https://iopscience.iop.org/journal/0264-9381
   color: "#88CABB" 
 
+"Living Rev. Rel.":
+  url: https://link.springer.com/journal/41114
+  color: "#00369f"
+
 "arXiv":
   url: https://arxiv.org/
   color: "#A42C25"

@@ -231,6 +231,22 @@ ul.task-list input[type="checkbox"] {
   font-size: 0.9em;
 }
 
+.project-image-left {
+  float: left;
+  width: 45%;
+  margin: 0 1.5rem 1rem 0;
+}
+
+.project-image-left picture,
+.project-image-left img {
+  width: 100%;
+}
+
+.project-image-left figcaption {
+  margin-top: 0.5rem;
+  font-size: 0.9em;
+}
+
 @media (max-width: 768px) {
   .project-image-right {
     float: none;

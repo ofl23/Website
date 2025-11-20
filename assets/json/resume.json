@@ -18,7 +18,7 @@
   "positions": [
     {
       "name": "<a href='https://www.aei.mpg.de' target='_blank' rel='noopener noreferrer'>Max Planck Institute for Gravitational Physics (Albert Einstein Institute)</a>",
-      "location": "Potsdam, Germany",
+      "location": "Potsdam, DE",
       "position": "Postdoctoral Researcher",
       "url": "https://www.aei.mpg.de/person/125634/2784",
       "startDate": "2022-11-01",
@@ -33,18 +33,6 @@
       "startDate": "2022-06-01",
       "endDate": "2022-10-31",
       "summary": ""
-    }
-  ],
-  "teaching": [
-    {
-      "name": "<a href='https://www.southampton.ac.uk/' target='_blank' rel='noopener noreferrer'>University of Southampton</a>",
-      "location": "Southampton, UK",
-      "position": "Postgraduate Student Demonstrator",
-      "url": "",
-      "startDate": "2018-09",
-      "endDate": "2022-01",
-      "summary": "",
-      "highlights": ["Numerical Methods in Python: Run workshops based on problem sheets and coursework", "Maths for Physicists: Run classes demonstrating mathematical techniques, coursework marking", "Maths for Engineers: Run drop-in workshops, exam writing and marking"]
     }
   ],
   "education": [
@@ -65,6 +53,17 @@
       "endDate": "2018-06-28",
       "score": "10",
       "courses": ["First Class Honours","Project title: <i>Constraints on the neutrino sector using current and future cosmological data</i>", "Advisor: Dr Eleonora Di Valentino"]
+    }
+  ],
+    "_supervision": [
+    {
+      "name": "Francesco Grippa",
+      "location": "Potsdam, DE",
+      "studyType": "PhD in Mathematical Sciences",
+      "startDate": "2018-09-27",
+      "endDate": "2022-06-28",
+      "score": "10",
+      "courses": ["Thesis title: <i> <a href='(https://eprints.soton.ac.uk/457451/' target='_blank' rel='noopener noreferrer'>Self-force for hyperbolic black hole encounters</a> </i>", "Advisor: Prof. Leor Barack"]
     }
   ],
   "_volunteer": [
@@ -261,6 +260,18 @@
       "startDate": "2023-04",
       "endDate": "2023-11",
       "url": "https://www.ligo.org/"
+    }
+  ],
+      "teaching": [
+    {
+      "name": "<a href='https://www.southampton.ac.uk/' target='_blank' rel='noopener noreferrer'>University of Southampton</a>",
+      "location": "Southampton, UK",
+      "position": "Postgraduate Student Demonstrator",
+      "url": "",
+      "startDate": "2018-09",
+      "endDate": "2022-01",
+      "summary": "",
+      "highlights": ["Numerical Methods in Python: Run workshops based on problem sheets and coursework", "Maths for Physicists: Run classes demonstrating mathematical techniques, coursework marking", "Maths for Engineers: Run drop-in workshops, exam writing and marking"]
     }
   ]
 }

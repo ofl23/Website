@@ -80,6 +80,13 @@
   ],
   "awards": [
     {
+      "title": "Postdoctoral Fellowship",
+      "date": "2025",
+      "awarder": "<a href='https://www.fct.pt/en/' target='_blank' rel='noopener noreferrer'>Fundação para a Ciência e a Tecnologia (FCT)</a>",
+      "url": "",
+      "summary": "Funding for a three year tenure at the Center for Astrophysics and Gravitation (CENTRA) within the Instituto Superior Técnico (IST), Portugal. Won as part of the 7th Call for the Stimulus of Scientific Employment, Individual Support (CEECIND)."
+    },
+    {
       "title": "Seal of Excellence",
       "date": "2025",
       "awarder": "<a href='https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en' target='_blank' rel='noopener noreferrer'>European Commission Horizon Europe</a>",
@@ -89,9 +96,9 @@
     {
       "title": "Doctoral Prize Fellowship",
       "date": "2022",
-      "awarder": "<a href='https://www.ukri.org/councils/epsrc/' target='_blank' rel='noopener noreferrer'>Engineering and Physical Sciences Research Council</a>",
+      "awarder": "<a href='https://www.ukri.org/councils/epsrc/' target='_blank' rel='noopener noreferrer'>Engineering and Physical Sciences Research Council (EPSRC)</a>",
       "url": "",
-      "summary": "Funding for the Postdoctoral Research Fellow position at the University of Southampton"
+      "summary": "Funding for the Postdoctoral Research Fellow position at the University of Southampton."
     },
     {
       "title": "Best Student Talk Prize Runner Up",

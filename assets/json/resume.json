@@ -80,18 +80,25 @@
   ],
   "awards": [
     {
-      "title": "Postdoctoral Fellowship",
-      "date": "2025",
+      "title": "FCT Junior Investigator Fellowship",
+      "date": "2026",
       "awarder": "<a href='https://www.fct.pt/en/' target='_blank' rel='noopener noreferrer'>Fundação para a Ciência e a Tecnologia (FCT)</a>",
       "url": "",
       "summary": "Funding for a three year tenure at the Center for Astrophysics and Gravitation (CENTRA) within the Instituto Superior Técnico (IST), Portugal. Won as part of the 7th Call for the Stimulus of Scientific Employment, Individual Support (CEECIND)."
     },
     {
       "title": "Seal of Excellence",
+      "date": "2026",
+      "awarder": "<a href='https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en' target='_blank' rel='noopener noreferrer'>European Commission Horizon Europe</a>",
+      "url": "",
+      "summary": "Gravitational Waves from Hyperbolic Encounters (GWHypE) is recognised as a highly rated proposal for the Marie Skłodowska-Curie Actions Postdoctoral Fellowships 2025 (96.4%)."
+    },
+    {
+      "title": "Seal of Excellence",
       "date": "2025",
       "awarder": "<a href='https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en' target='_blank' rel='noopener noreferrer'>European Commission Horizon Europe</a>",
       "url": "",
-      "summary": "Gravitational Waves from Hyperbolic Encounters (GWHypE) is recognised as a highly rated proposal for the Marie Skłodowska-Curie Actions Postdoctoral Fellowships 2024."
+      "summary": "Gravitational Waves from Hyperbolic Encounters (GWHypE) is recognised as a highly rated proposal for the Marie Skłodowska-Curie Actions Postdoctoral Fellowships 2024 (86.8%)."
     },
     {
       "title": "Doctoral Prize Fellowship",
@@ -247,7 +254,7 @@
     {
       "name": "Laser Interferometer Space Antenna (LISA) Consortium",
       "summary": "The LISA Consortium is a large international collaboration that combines the resources and expertise from scientists in many countries all over the world. Together with ESA, its member states, and NASA, the LISA Consortium is working to bring the LISA Mission to fruition.",
-      "highlights": ["Member of the Waveform Working Group", "Member of the LISA Early Career Scientists (LECS)"],
+      "highlights": ["Member of the Waveform Working Group", "Member of the Waveform Parameter Space project", "Member of the Verified Datasets project", "Member of the LISA Early Career Scientists (LECS)"],
       "startDate": "2018-10",
       "endDate": "",
       "url": "https://www.lisamission.org/"

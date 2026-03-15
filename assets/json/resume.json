@@ -55,15 +55,14 @@
       "courses": ["First Class Honours","Project title: <i>Constraints on the neutrino sector using current and future cosmological data</i>", "Advisor: Dr Eleonora Di Valentino"]
     }
   ],
-    "_supervision": [
+  "supervision": [
     {
       "name": "Francesco Grippa",
-      "location": "Potsdam, DE",
-      "studyType": "PhD in Mathematical Sciences",
-      "startDate": "2018-09-27",
-      "endDate": "2022-06-28",
-      "score": "10",
-      "courses": ["Thesis title: <i> <a href='(https://eprints.soton.ac.uk/457451/' target='_blank' rel='noopener noreferrer'>Self-force for hyperbolic black hole encounters</a> </i>", "Advisor: Prof. Leor Barack"]
+      "summary": "Visiting PhD student from Salerno University",
+      "startDate": "2025-11-27",
+      "endDate": "2026-04-30",
+      "url": "",
+      "highlights": ["Project: Initial data for hyperbolic black hole encounters using the Extended Conformal Thin Sandwich (XCTS) approach.", "Co-supervised with Prof. Harald Pfeiffer"]
     }
   ],
   "_volunteer": [

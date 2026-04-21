@@ -8,7 +8,11 @@
 
 "CQG":
   url: https://iopscience.iop.org/journal/0264-9381
-  color: "#88CABB" 
+  color: "#97C8BB" 
+
+"JCAP":
+  url: https://iopscience.iop.org/journal/1475-7516
+  color: "#3B86C2" 
 
 "Living Rev. Rel.":
   url: https://link.springer.com/journal/41114

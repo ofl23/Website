@@ -1,28 +1,37 @@
 {
   "basics": {
     "name": "Oliver Long",
-    "position": "Postdoctoral Researcher",
+    "position": "Government of Ireland Postdoctoral Fellow",
     "image": "assets/img/profile.WEBP",
-    "email": "oliver.long@aei.mpg.de",
+    "email": "oliver.long@ucd.ie",
     "phone": "",
     "url": "",
     "summary": "",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Berlin",
-      "countryCode": "DE",
+      "city": "Dublin",
+      "countryCode": "IE",
       "region": ""
     }
   },
   "positions": [
+    {
+      "name": "<a href='https://www.ucd.ie/' target='_blank' rel='noopener noreferrer'>University College Dublin</a>",
+      "location": "Dublin, IE",
+      "position": "Government of Ireland Postdoctoral Fellow",
+      "url": "",
+      "startDate": "2026-09-01",
+      "endDate": "",
+      "summary": ""
+    },
     {
       "name": "<a href='https://www.aei.mpg.de' target='_blank' rel='noopener noreferrer'>Max Planck Institute for Gravitational Physics (Albert Einstein Institute)</a>",
       "location": "Potsdam, DE",
       "position": "Postdoctoral Researcher",
       "url": "https://www.aei.mpg.de/person/125634/2784",
       "startDate": "2022-11-01",
-      "endDate": "",
+      "endDate": "2026-08-31",
       "summary": ""
     },
     {
@@ -87,7 +96,7 @@
     },
     {
       "title": "FCT Junior Investigator Fellowship",
-      "date": "2026",
+      "date": "2025",
       "awarder": "<a href='https://www.fct.pt/en/' target='_blank' rel='noopener noreferrer'>Fundação para a Ciência e a Tecnologia (FCT)</a>",
       "url": "",
       "summary": "Funding for a three year tenure at the Center for Astrophysics and Gravitation (CENTRA) within the Instituto Superior Técnico (IST), Portugal. Won as part of the 7th Call for the Stimulus of Scientific Employment, Individual Support (CEECIND)."

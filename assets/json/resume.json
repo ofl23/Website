@@ -251,6 +251,14 @@
   ],
   "collaborations": [
     {
+      "name": "Multiscale Self-Force (M2SF) Collaboration",
+      "summary": "The Multiscale Self-Force Collaboration brings together researchers from around the world to develop fast, accurate waveform models for asymmetric compact binary systems, with a particular focus on extreme- and intermediate-mass-ratio inspirals (EMRIs and IMRIs).",
+      "highlights": ["Associate member"],
+      "startDate": "2026-09",
+      "endDate": "",
+      "url": "https://www.self-force.org/"
+    },
+    {
       "name": "Simulating Extreme Spacetimes (SXS) Collaboration",
       "summary": "The SXS project is a collaborative research effort involving multiple institutions. Our goal is the simulation of black holes and other extreme spacetimes to gain a better understanding of Relativity, and the physics of exotic objects in the distant cosmos.",
       "highlights": ["Contributor to the <a href='https://www.black-holes.org/code/SpEC.html' target='_blank' rel='noopener noreferrer'>Spectral Einstein Code</a> (SpEC)", "Member of the SXS Social Media Team"],

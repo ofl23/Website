@@ -1,0 +1,35 @@
+# Logos shown at the bottom of the about page. Images live in assets/img/logos/.
+#
+#   file       - image used in light mode (and in both modes if file_dark is absent)
+#   file_dark  - optional; the version that reads well against a dark background
+#   height     - optional; rendered height in px (default 55), used to balance
+#                logos of very different shapes (a wide wordmark needs less
+#                height than a tall crest to carry the same visual weight)
+
+- name: University College Dublin
+  url: https://www.ucd.ie/
+  file: ucd.svg
+  height: 70
+
+- name: Research Ireland
+  url: https://www.researchireland.ie/
+  file: research-ireland.png
+  file_dark: research-ireland-dark.png
+  height: 38
+
+- name: LISA Consortium
+  url: https://www.lisamission.org/
+  file: lisa.png
+  file_dark: lisa-dark.png
+
+- name: M2SF Collaboration
+  url: https://www.self-force.org/
+  file: m2sf.png
+  file_dark: m2sf-dark.png
+  height: 60
+
+- name: SXS Collaboration
+  url: https://www.black-holes.org/
+  file: sxs.svg
+  file_dark: sxs-dark.svg
+  height: 65

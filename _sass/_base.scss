@@ -486,6 +486,52 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+// Affiliation logos (bottom of the about page). Each logo may supply a dark
+// variant; the swap is pure CSS, driven by the data-theme attribute that
+// assets/js/theme.js sets in the head before the body renders.
+
+.affiliations {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  column-gap: 3rem;
+  row-gap: 2rem;
+  margin-top: 3rem;
+  padding-top: 2rem;
+  border-top: 1px solid var(--global-divider-color);
+
+  a {
+    display: inline-flex;
+    align-items: center;
+  }
+
+  img {
+    height: 55px;
+    width: auto;
+    opacity: 0.85;
+    transition: opacity 0.2s ease-in-out;
+  }
+
+  a:hover img {
+    opacity: 1;
+  }
+}
+
+.logo-dark {
+  display: none;
+}
+
+html[data-theme="dark"] {
+  .logo-light {
+    display: none;
+  }
+
+  .logo-dark {
+    display: inline-block;
+  }
+}
+
 .wechat-modal {
   display: none;
   position: fixed;

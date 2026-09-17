@@ -1,0 +1,23 @@
+<div class="affiliations">
+  {% for affiliation in site.data.affiliations %}
+    {% assign logo_path = affiliation.file | prepend: '/assets/img/logos/' | relative_url %}
+    {% if affiliation.height %}
+      {% capture logo_style %}height: {{ affiliation.height }}px;{% endcapture %}
+    {% else %}
+      {% assign logo_style = '' %}
+    {% endif %}
+    <a href="{{ affiliation.url }}" title="{{ affiliation.name }}">
+      <img
+        src="{{ logo_path }}"
+        class="{% if affiliation.file_dark %}logo-light{% endif %}"
+        alt="{{ affiliation.name }}"
+        style="{{ logo_style }}"
+        loading="lazy"
+      >
+      {% if affiliation.file_dark %}
+        {% assign logo_dark_path = affiliation.file_dark | prepend: '/assets/img/logos/' | relative_url %}
+        <img src="{{ logo_dark_path }}" class="logo-dark" alt="{{ affiliation.name }}" style="{{ logo_style }}" loading="lazy">
+      {% endif %}
+    </a>
+  {% endfor %}
+</div>

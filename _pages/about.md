@@ -12,7 +12,8 @@ profile:
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: true # includes contact icons beside the page title
+affiliations: true # includes institute / funder / collaboration logos at the bottom
 ---
 
 My name is Oliver Long and I am a Government of Ireland Postdoctoral Fellow at [University College Dublin](https://www.ucd.ie/) in Ireland. My research focuses on the numerical modelling of unbound binary black hole encounters. These high-energy systems allow us to probe the ultra-strong gravitational potential and increase our understanding of General Relativity. To explore these systems, I employ a range of methods, including [numerical relativity]({{ '/projects/NR/' | relative_url }}) for the comparable mass case and [self-force]({{ '/projects/SelfForce/' | relative_url }}) techniques from black hole perturbation theory for extreme-mass ratio scenarios.

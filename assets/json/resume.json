@@ -86,49 +86,49 @@
       "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ],
-  "awards": [
+  "grants_total": "~€1.02m",
+  "grants": [
+    {
+      "title": "Ambizione Grant",
+      "date": "2026",
+      "awarder": "<a href='https://www.snf.ch/en' target='_blank' rel='noopener noreferrer'>Swiss National Science Foundation</a>",
+      "amount": "CHF 632k",
+      "url": "",
+      "summary": "Funding for a four year tenure at Universität Zürich, Switzerland."
+    },
     {
       "title": "Government of Ireland Postdoctoral Fellowship",
       "date": "2026",
       "awarder": "<a href='https://www.researchireland.ie/' target='_blank' rel='noopener noreferrer'>Research Ireland</a>",
+      "amount": "€135k",
       "url": "",
-      "summary": "Funding for a two year tenure within the Relativity Group at University College Dublin (UCD), Ireland. Won as part of the Government of Ireland Postdoctoral Fellowship Programme 2025."
+      "summary": "Funding for a two year tenure at University College Dublin, Ireland."
     },
     {
-      "title": "FCT Junior Investigator Fellowship",
+      "title": "Junior Investigator Fellowship",
       "date": "2025",
-      "awarder": "<a href='https://www.fct.pt/en/' target='_blank' rel='noopener noreferrer'>Fundação para a Ciência e a Tecnologia (FCT)</a>",
+      "awarder": "<a href='https://www.fct.pt/en/' target='_blank' rel='noopener noreferrer'>Fundação para a Ciência e a Tecnologia</a>",
+      "amount": "~€130k",
       "url": "",
-      "summary": "Funding for a three year tenure at the Center for Astrophysics and Gravitation (CENTRA) within the Instituto Superior Técnico (IST), Portugal. Won as part of the 7th Call for the Stimulus of Scientific Employment, Individual Support (CEECIND)."
-    },
-    {
-      "title": "Seal of Excellence",
-      "date": "2026",
-      "awarder": "<a href='https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en' target='_blank' rel='noopener noreferrer'>European Commission Horizon Europe</a>",
-      "url": "",
-      "summary": "Gravitational Waves from Hyperbolic Encounters (GWHypE) is recognised as a highly rated proposal for the Marie Skłodowska-Curie Actions Postdoctoral Fellowships 2025 (96.4%)."
-    },
-    {
-      "title": "Seal of Excellence",
-      "date": "2025",
-      "awarder": "<a href='https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en' target='_blank' rel='noopener noreferrer'>European Commission Horizon Europe</a>",
-      "url": "",
-      "summary": "Gravitational Waves from Hyperbolic Encounters (GWHypE) is recognised as a highly rated proposal for the Marie Skłodowska-Curie Actions Postdoctoral Fellowships 2024 (86.8%)."
+      "summary": "Funding for a three year tenure at the Instituto Superior Técnico, Portugal."
     },
     {
       "title": "Doctoral Prize Fellowship",
       "date": "2022",
-      "awarder": "<a href='https://www.ukri.org/councils/epsrc/' target='_blank' rel='noopener noreferrer'>Engineering and Physical Sciences Research Council (EPSRC)</a>",
+      "awarder": "<a href='https://www.ukri.org/councils/epsrc/' target='_blank' rel='noopener noreferrer'>Engineering and Physical Sciences Research Council</a>",
+      "amount": "~£40k",
       "url": "",
-      "summary": "Funding for the Postdoctoral Research Fellow position at the University of Southampton."
-    },
-    {
-      "title": "Best Student Talk Prize Runner Up",
-      "date": "2022",
-      "awarder": "<a href='https://www.caprameeting.org/capra-meetings/capra-25' target='_blank' rel='noopener noreferrer'>25th Capra Meeting on Radiation Reaction in General Relativity</a>",
-      "url": "",
-      "summary": ""
+      "summary": "Funding for a one year tenure at the University of Southampton, United Kingdom."
     }
+  ],
+  "awards": [
+    // {
+    //   "title": "Best Student Talk Runner Up",
+    //   "date": "2022",
+    //   "awarder": "<a href='https://www.caprameeting.org/capra-meetings/capra-25' target='_blank' rel='noopener noreferrer'>25th Capra Meeting on Radiation Reaction in General Relativity</a>",
+    //   "url": "",
+    //   "summary": ""
+    // }
   ],
   "_certificates": [
     {

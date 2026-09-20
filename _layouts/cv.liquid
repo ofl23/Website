@@ -76,9 +76,15 @@ layout: default
             {% endunless %}
           {% endif %}
           {% if data[0] == 'meta' or data[1].size == 0 %} {% continue %} {% endif %}
+          {% case data[0] %}
+            {% when 'grants' %}
+              {% assign section_title = 'Funding' %}
+            {% else %}
+              {% assign section_title = data[0] | capitalize %}
+          {% endcase %}
           <a class="anchor" id="{{ data[0] }}"></a>
           <div class="card mt-3 p-3">
-            <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
+            <h3 class="card-title font-weight-medium">{{ section_title }}</h3>
             <div>
               {% case data[0] %}
                 {% when 'basics' %}
@@ -95,6 +101,8 @@ layout: default
                   {% include resume/volunteer.liquid %}
                 {% when 'projects' %}
                   {% include resume/projects.liquid %}
+                {% when 'grants' %}
+                  {% include resume/grants.liquid %}
                 {% when 'awards' %}
                   {% include resume/awards.liquid %}
                 {% when 'coding' %}

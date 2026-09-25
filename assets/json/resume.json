@@ -261,7 +261,7 @@
     {
       "name": "Simulating Extreme Spacetimes (SXS) Collaboration",
       "summary": "The SXS project is a collaborative research effort involving multiple institutions. Our goal is the simulation of black holes and other extreme spacetimes to gain a better understanding of Relativity, and the physics of exotic objects in the distant cosmos.",
-      "highlights": ["Contributor to the <a href='https://www.black-holes.org/code/SpEC.html' target='_blank' rel='noopener noreferrer'>Spectral Einstein Code</a> (SpEC)", "Member of the SXS Social Media Team"],
+      "highlights": ["Contributor to the <a href='https://www.black-holes.org/code/SpEC.html' target='_blank' rel='noopener noreferrer'>Spectral Einstein Code</a> (SpEC) and the <a href='https://github.com/moble/scri' target='_blank' rel='noopener noreferrer'>scri</a> package", "Member of the SXS Social Media Team"],
       "startDate": "2022-11",
       "endDate": "",
       "url": "https://www.black-holes.org/"

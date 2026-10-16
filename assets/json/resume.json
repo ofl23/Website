@@ -89,6 +89,14 @@
   "grants_total": "~€1.02m",
   "grants": [
     {
+      "title": "Class B Computing Allocation",
+      "date": "2026",
+      "awarder": "<a href='https://www.ichec.ie/' target='_blank' rel='noopener noreferrer'>Irish Centre for High-End Computing</a>",
+      "amount": "25k node-hours",
+      "url": "",
+      "summary": "Computing allocation for 48 SpEC simulations of unbound black hole encounters. Co-PI with Prof. Wardell."
+    },
+    {
       "title": "Ambizione Grant",
       "date": "2026",
       "awarder": "<a href='https://www.snf.ch/en' target='_blank' rel='noopener noreferrer'>Swiss National Science Foundation</a>",
